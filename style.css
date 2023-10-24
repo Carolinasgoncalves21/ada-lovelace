@@ -1,11 +1,10 @@
 body { 
-    background-color: rgb(134, 123, 102);
+    background-color: rgb(236, 233, 228);
 }
 
 h1 {
     font-size: 30px;
     text-align: center;
-    color: red;
 }
 
 p {
@@ -14,3 +13,17 @@ p {
     font-size: 20px;
 }
 
+.textorosa{
+    color: deeppink;
+}
+
+.textoroxo{
+    color: purple;
+}
+
+.imgcentro{
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
+    border: solid 3px  deeppink;
+}

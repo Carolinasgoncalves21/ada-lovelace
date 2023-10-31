@@ -15,10 +15,12 @@ p {
 
 .textorosa{
     color: deeppink;
+    text-align: justify;
 }
 
 .textoroxo{
     color: purple;
+    text-align: justify;
 }
 
 .imgcentro{
